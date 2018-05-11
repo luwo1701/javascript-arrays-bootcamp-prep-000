@@ -7,6 +7,8 @@ function addElementToBeginningOfArray(array,element){
 
 function destructivelyAddElementToBeginningOfArray(array, element){
   //array = [element,...array]
+  superheroines.push("wonder woman");
+
   return array.push(element)
 }
 
